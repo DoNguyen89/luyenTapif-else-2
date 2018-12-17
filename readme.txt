@@ -1,4 +1,4 @@
-iết chương trình kiểm tra đăng nhập hệ thống của người dùng theo yêu cầu sau
+Viết chương trình kiểm tra đăng nhập hệ thống của người dùng theo yêu cầu sau
 
 Yêu cầu người dùng nhập tên từ bàn phím. 
 
